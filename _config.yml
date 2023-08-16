@@ -3,13 +3,13 @@
 #
 
 # Site locale
-lang: "en"
+lang: "pl"
 
 # Name of your site (displayed in the header)
 title: Shark Blog
 
 # Short bio or description (displayed in the header)
-description: Personal blog about programming and lifestyle
+description: Blog o programowaniu oraz innych zagadnieniach
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/19774672
@@ -30,13 +30,13 @@ baseurl: "/SharkBlog"
 
 # Navigation menu
 navigation_links:
-  - title: Blog
+  - title: BLOG
     url: /SharkBlog/
 
-  - title: About
+  - title: O MNIE
     url: /SharkBlog/about
 
-  - title: Search
+  - title: SZUKAJ
     url: /SharkBlog/search
 
 # Footer icons
