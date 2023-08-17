@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Witajcie na moim blogu! Jestem pasjonatem programowania oraz zdrowego stylu życia, który czerpie inspirację z różnorodnych źródeł. Mam na imię [Twoje imię], a to jest moje miejsce w sieci, gdzie chcę się podzielić swoimi doświadczeniami, refleksjami i pasjami.
+Witajcie na moim blogu! Jestem pasjonatem programowania oraz zdrowego stylu życia, który czerpie inspirację z różnorodnych źródeł. Mam na imię Filip, a to jest moje miejsce w sieci, gdzie chcę się podzielić swoimi doświadczeniami, refleksjami i pasjami.
 
 Programowanie to nie tylko moja praca, ale także moje hobby i sposób na rozwijanie umysłu. Fascynuje mnie tworzenie nowych rozwiązań, rozkładanie problemów na czynniki pierwsze i kreowanie czegoś nowego. Na tym blogu znajdziesz różnorodne artykuły dotyczące programowania, poradniki i wiele więcej. Cieszę się, że mogę dzielić się swoją wiedzą z wami i być częścią tej dynamicznej społeczności twórców.
 
