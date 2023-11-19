@@ -1,17 +1,17 @@
 ---
 layout: page
-title: O mnie
+title: About me 
 permalink: /about
 ---
+![madagascar_selfie.jpeg](assets%2Fimages%2Fmadagascar_selfie.jpeg)
+Welcome to my blog! I am passionate about programming and a healthy lifestyle that draws inspiration from various sources. My name is Filip, and this is my place on the internet where I want to share my experiences, reflections and passions.
 
-Witajcie na moim blogu! Jestem pasjonatem programowania oraz zdrowego stylu życia, który czerpie inspirację z różnorodnych źródeł. Mam na imię Filip, a to jest moje miejsce w sieci, gdzie chcę się podzielić swoimi doświadczeniami, refleksjami i pasjami.
+Programming is not only my job, but also my hobby and a way to develop my mind. I am fascinated by creating new solutions, breaking down problems into prime factors and creating something new. On this blog you will find a variety of programming articles, guides and much more. I'm happy to share my knowledge with you and be part of this dynamic community of creators.
 
-Programowanie to nie tylko moja praca, ale także moje hobby i sposób na rozwijanie umysłu. Fascynuje mnie tworzenie nowych rozwiązań, rozkładanie problemów na czynniki pierwsze i kreowanie czegoś nowego. Na tym blogu znajdziesz różnorodne artykuły dotyczące programowania, poradniki i wiele więcej. Cieszę się, że mogę dzielić się swoją wiedzą z wami i być częścią tej dynamicznej społeczności twórców.
+In addition to coding, physical activity is an important element of my life. I believe that a healthy body is the key to a productive mind. My interest in sports is primarily gym training, cycling and, recently, running. These activities not only provide me with energy, but also help me maintain mental balance. Thanks to this, I can break away from the screen and find harmony in movement.
 
-Oprócz kodowania, aktywność fizyczna stanowi ważny element mojego życia. Wierzę, że zdrowe ciało jest kluczem do produktywnego umysłu. Moje zainteresowanie sportem to przede wszystkim trening kalisteniczny, jazda na rowerze oraz od niedawna bieganie. Aktywności te nie tylko dostarcza mi energii, ale także pomagają zachować równowagę psychiczną. Dzięki temu potrafię oderwać się od ekranu i znaleźć harmonię w ruchu.
+Another passion of mine are books. Not only those related to programming, but also fantasy and psychological ones. I like to delve into topics related to the development of soft skills, work efficiency and the analysis of human behavior. Thanks to books, I not only learn new concepts, but also try to put them into practice to become a better version of myself.
 
-Kolejną moją pasją są książki. Nie tylko te związane z programowaniem, ale również fantasy i psychologiczne. Lubię zagłębiać się w tematykę związaną z rozwijaniem umiejętności miękkich, efektywnością pracy oraz analizą ludzkiego zachowania. Dzięki książkom uczę się nie tylko nowych koncepcji, ale także staram się wcielać je w życie, aby stać się lepszą wersją siebie.
+Traveling is an irreplaceable form of learning and inspiration for me. Discovering new places, cultures and people broadens my horizons and allows me to look at the world from different perspectives. On the blog, I will share with you my travel experiences and reflections on the impact of travel on our personal development.
 
-Podróże stanowią dla mnie niezastąpioną formę nauki i inspiracji. Odkrywanie nowych miejsc, kultur i ludzi poszerza moje horyzonty oraz pozwala spojrzeć na świat z różnych perspektyw. Na blogu podzielę się z wami moimi podróżniczymi doświadczeniami, oraz refleksjami na temat wpływu podróży na nasz rozwój osobisty.
-
-Cieszę się, że możemy razem odkrywać świat programowania, aktywności fizycznej, różnorakich książek, psychologii oraz podróży. Zapraszam do regularnego odwiedzania mojego bloga i dzielenia się waszymi komentarzami oraz opiniami. Razem możemy stworzyć inspirujące miejsce, które będzie sprzyjać rozwojowi i poszerzaniu horyzontów.
+I am glad that we can discover the world of programming, physical activity, various books, psychology and travel together. I invite you to visit my blog regularly and share your comments and opinions. Together we can create an inspiring place that will support development and broadening horizons.
