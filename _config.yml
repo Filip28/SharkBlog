@@ -9,7 +9,7 @@ lang: "pl"
 title: Shark Blog
 
 # Short bio or description (displayed in the header)
-description: Blog o programowaniu oraz innych zagadnieniach
+description: Personal blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/19774672
@@ -33,10 +33,10 @@ navigation_links:
   - title: BLOG
     url: /SharkBlog/
 
-  - title: O MNIE
+  - title: ABOUT ME
     url: /SharkBlog/about
 
-  - title: SZUKAJ
+  - title: SEARCH
     url: /SharkBlog/search
 
 # Footer icons
